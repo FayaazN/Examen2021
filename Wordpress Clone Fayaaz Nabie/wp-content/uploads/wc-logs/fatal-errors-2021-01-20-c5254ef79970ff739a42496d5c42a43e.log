@@ -1,0 +1,2 @@
+2021-01-20T23:29:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 63253672 bytes) in /home/extklant/domains/externeklant.nl/public_html/fayaaz/wp-admin/includes/class-pclzip.php op de lijn 2695
+
